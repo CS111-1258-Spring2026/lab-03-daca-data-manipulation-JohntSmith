@@ -51,7 +51,7 @@ public class Main
 		
 		/***** OUTPUT SECTION *****/
 		System.out.println( "Julian Day Number for today's date, 2/2/2020, is " + (int) jdnToday);
-		System.out.println( "Julian Day Number for birthday, 8/26/1918, is " + (int)jdnBirth);
+		System.out.println( "Julian Day Number for birthday, 8/26/1918, is " + (int) jdnBirth);
 		System.out.print( "The difference in days is " + (int) (jdnToday - jdnBirth));
 		System.out.print( ", which makes you approximately " + (int) age);
 		System.out.println(" years old!");
